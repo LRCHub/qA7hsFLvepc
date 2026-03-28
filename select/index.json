@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "MAX - \"Worship\" (Official Video)",
+  "base_artist": "MAX",
+  "createdAt": "2026-03-28T10:28:55.117620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On Me (feat. Ava Max)",
+      "artist": "Thomas Rhett feat. Kane Brown & Ava Max",
+      "has_synced": true,
+      "path": "select/01_On_Me_(feat._Ava_Max)_Thomas_Rhett_feat._Kane_Brown_&_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On Me (feat. Ava Max)",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/02_On_Me_(feat._Ava_Max)_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Max Ernst",
+      "artist": "Mission of Burma",
+      "has_synced": false,
+      "path": "select/03_Max_Ernst_Mission_of_Burma.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Helicon 2 - Max Tundra Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/04_Helicon_2_-_Max_Tundra_Remix_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mad Max",
+      "artist": "Guapdad 4000 feat. !llmind",
+      "has_synced": true,
+      "path": "select/05_Mad_Max_Guapdad_4000_feat._!llmind.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mad Max",
+      "artist": "Guapdad 4000",
+      "has_synced": true,
+      "path": "select/06_Mad_Max_Guapdad_4000.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Is The Max",
+      "artist": "Planet Funk",
+      "has_synced": false,
+      "path": "select/07_Where_Is_The_Max_Planet_Funk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Free Max B",
+      "artist": "Chavo feat. Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/08_Free_Max_B_Chavo_feat._Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Free Max B",
+      "artist": "Chavo",
+      "has_synced": false,
+      "path": "select/09_Free_Max_B_Chavo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big Max",
+      "artist": "E-Rotic",
+      "has_synced": true,
+      "path": "select/10_Big_Max_E-Rotic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Max Don't Have Sex with Your Ex",
+      "artist": "E-Rotic",
+      "has_synced": true,
+      "path": "select/11_Max_Don't_Have_Sex_with_Your_Ex_E-Rotic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Max Don't Have Sex With Your Ex (Grandale mix)",
+      "artist": "E-Rotic",
+      "has_synced": false,
+      "path": "select/12_Max_Don't_Have_Sex_With_Your_Ex_(Grandale_mix)_E-Rotic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Max B (feat. Joe Fox)",
+      "artist": "A$AP Rocky feat. Joe Fox",
+      "has_synced": true,
+      "path": "select/13_Max_B_(feat._Joe_Fox)_A$AP_Rocky_feat._Joe_Fox.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Max B (Feat. Joe Fox)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/14_Max_B_(Feat._Joe_Fox)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me As I Am - Max Cooper Remix",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/15_Take_Me_As_I_Am_-_Max_Cooper_Remix_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Walked Alone (Max Tundra Remix)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/16_I_Walked_Alone_(Max_Tundra_Remix)_YACHT.txt"
+    }
+  ]
+}
